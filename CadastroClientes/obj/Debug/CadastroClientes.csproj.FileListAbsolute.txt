@@ -1,0 +1,10 @@
+C:\Users\Convidado\Desktop\Projetos C Sharp\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csprojAssemblyReference.cache
+C:\Users\Convidado\Desktop\Projetos C Sharp\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+C:\Users\Convidado\Desktop\Projetos C Sharp\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.cache
+C:\Users\Convidado\Desktop\Projetos C Sharp\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.CoreCompileInputs.cache
+C:\Users\Convidado\Desktop\Projetos C Sharp\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+C:\Users\Convidado\Desktop\Projetos C Sharp\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe
+C:\Users\Convidado\Desktop\Projetos C Sharp\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.pdb
+C:\Users\Convidado\Desktop\Projetos C Sharp\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.CadastroClientes.resources
+C:\Users\Convidado\Desktop\Projetos C Sharp\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.exe
+C:\Users\Convidado\Desktop\Projetos C Sharp\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.pdb
